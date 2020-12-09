@@ -1,0 +1,5 @@
+insert into user values (10000, sysdate() , 'Vichuuuuuu')
+insert into user values (20000, sysdate() , 'Slashhhhhh')
+insert into user values (30000, sysdate() , 'Cristiano Ronaldo')
+insert into post values (100, 'IMAGINARY SELFIE OF VICHU' ,10000 )
+insert into post values (101, 'IMAGINARY SELFIE OF  SLASH' ,20000 )
