@@ -1,5 +1,5 @@
 # SOCIAL-MEDIA-SERVER
-Level 3 RESTful application (HATEOAS enabled), that mocks a typical social media server.
+Level 3 RESTful application that mocks a typical social media server.
 
 
 
